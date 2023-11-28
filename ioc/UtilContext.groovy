@@ -1,5 +1,5 @@
 package com.pelayo.architecture.ioc;
-
+/* Esta clase es para facilitar el uso de la libreria*/
 public class UtilContext {
 	
 	
